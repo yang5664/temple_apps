@@ -1,0 +1,14 @@
+{
+    "name": "xuanyang/sinopac",
+    "description": "Bank SinoPac Cash Flow",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xuan Yang",
+            "email": "yang5664@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
